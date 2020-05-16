@@ -31,7 +31,7 @@
 - [Contributing](#contributing)
 - [Changelog](#changelog)
 
-# Preamble
+# Introduction
 Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing Keizaal, The Phoenix Flavor, or Lexy’s instead. 
 
 I will not provide support on how to add or change any mods beyond what is already provided. Do not ask me for help if you changed things. If you do not have experience modding requiem on SSE and patching with xedit I suggest you do not even think of changing anything.
@@ -112,10 +112,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
 
-**x is not a whitelisted download**:
-
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
-
 **Wabbajack could not find my game folder**:
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
@@ -140,7 +136,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Gameplay Guide
 
-GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE TSO DEV SERVER
+GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE [TSO DEV SERVER](https://discord.gg/ueJH6Jz)
 
 ## Perks
 
@@ -203,7 +199,130 @@ My advice for starting out: grab as much as you can from RoL you’ll need it. M
 
 ## In-Game MCM Options
 
+
 https://docs.google.com/document/d/1JHpv3hXreLy89oZuAUd5QrtI0B34cjG0_HZPlnDFQN0/
+
+Notes indicate settings to change, if not specified leave as default. 
+- X = Enable 
+- O = Disable
+**Immediately after creating your character open your inventory and close it.**
+
+## All Geared Up Deriv.
+Misc. - Player
+
+- Enable Misc Item Display: O
+
+NPC
+- Enable Coin Purse: O
+- Enable Ingredient Satchel: O
+- Potions: O
+- Scroll: O
+- Torch: O
+
+## Death is Highly Overrated: Redone
+- Skill Loss Notifications: X
+
+Cure Disease Options
+
+- Amulet of Arkay Respawn: X
+- Health Potion Respawn: X
+- Unassisted Respawn: X
+
+Respawn Options
+- Revive Seconds: 3
+- Skills to Decrease: 6
+
+## ESF Companions
+Hit apply preset 
+Joining
+- Thieves Guild Members Can Join: X
+
+Quest Tweaks
+- Radiant Quest Reward Gold
+- Use Default Gold Rewards: O
+- Gold per Guild Rank: 100
+- Gold per Player Level: 0
+- Gold per Quest Difficulty Level: 100
+Miscellaneous: Beast Blood
+- Aela Will Offer: Unlimited
+
+## Extended UI
+Hide Legendary UI elements: X
+
+## Follower Framework
+System
+- Load configuration file
+Set hotkeys at your discretion
+
+## Forgotten Magic Redone
+Settings
+- Spell Book Drop Chance: 0%
+- Jewelery Drop Chance: 1%
+
+## Quick Light
+- Brightness: Bright
+
+## Requiem (Wait until Requiem/AZT tells you they’re ready)
+Combat
+- No non-hostile Bull Rush/Trample: X
+Atmosphere
+- Dragon random spawn interval: 6 days
+- Heartbeat threshold: 5%
+- Cleared cell respawn time: 90 days
+
+## Skyrim Unique Treasures
+- Lore friendly unique items only: X
+
+## Spell Research
+Navigate to options and click import spells
+Close MCM and select yes on every prompt
+
+Options -> Experience
+- Set all to 0
+
+## The Ultimate Dodge Mod
+**Rebind sneak key as you want or leave it alone**
+
+NPC Settings: NPC dodging frequency
+- Not frequent
+
+## Thieves Guild Req.
+- Select load preset
+
+## Ultimate Combat
+
+General
+Timed Block
+- Effective Time: 0s
+- Blur Strength: 0
+
+Game Balance Settings
+- Speed bonus: O
+
+Others
+- Swing Effect: O
+
+Stagger
+- Enemy Poise: O
+- Player Stagger: O
+
+Locational Damage
+- Headshot Message: O
+- Locational Damage Sound: O
+- Locational Damage Effect: O
+
+NPC Setting
+- Giant HP Multi: 1
+- Dragon Priest HP Multi: 1
+- Centurion HP Multi: 1
+
+**Disable NPC Dodge**
+
+## VT & Requiem
+- Options -> Click disabled to enable the mod
+
+## Wildcat
+- Disable Penalties vs Massive Targets: X
 
 
 ## FAQ
@@ -282,6 +401,17 @@ Special Thanks
 
 Mod Authors
 - And of course, where would we be without Skyrim’s awesome mod authors? Thank you all for releasing the quality content that you guys do. PLEASE DO NOT FORGET TO ENDORSE THE AUTHORS!
+
+Invisible Entity tier
+- Moggi
+- Dispo
+            
+Dremora tier
+
+Churl Tier
+- Benjamin Jessat
+- LanHsah
+
 
 ## Contact
 
