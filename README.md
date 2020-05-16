@@ -195,9 +195,6 @@ My advice for starting out: grab as much as you can from RoL you’ll need it. M
 
 ## In-Game MCM Options
 
-
-https://docs.google.com/document/d/1JHpv3hXreLy89oZuAUd5QrtI0B34cjG0_HZPlnDFQN0/
-
 Notes indicate settings to change, if not specified leave as default. 
 - X = Enable 
 - O = Disable
