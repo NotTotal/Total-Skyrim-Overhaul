@@ -322,22 +322,31 @@ NPC Setting
 
 Why is there a lantern always attached to my character?  Why am I always casting light?
 - This is provided by a mod called quick light.  Holding E will toggle a light on and off to help brighten darker areas
+
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
+
 How do I use High Poly Head?
-- In racemenu search for “face part” and move the slider. HPH will work on any pre existing presets that you have.
+- In racemenu search for “face part” and move the slider. HPH will work on any pre existing presets that you have, but you will need to use HPH's eyebrows.
+
 How do I set skyrim to borderless windowed mode?
 - Change the settings in the SSE Display Tweaks INI in MO2
+
 I have an ultrawide monitor (21:9), how do I fix the aspect ratios?
 - Install the following mods: Complete Widescreen Fix, Extended UI - Widescreen fix, Wider MCM menu for Skyui Widescreen Fix, SkyUI SE - Flashing Savegames fix - Widescreen Fix, Better MessageBox Controls Widescreen fix, Better Dialogue Control Widescreenfix
+
 I have an 60+ Hz screen (100hz, 144hz). What should I do?
 - Edit the SSE Display Tweaks ini to properly support your monitor.
+
 Is [insert mod name here] part of the list?
 - Check the modlist manifest. If there is something you want that is not in the list, I highly suggest you do not add it unless you know what you’re doing.
+
 Will you add x mod to the list?
 - I only take suggestions I did not ask for from people who send me a save of them legitimately killing alduin.
+
 How do I prevent my headgear from being unequiped out of combat?
 - Modify the Dynamic Equipment Manager JSON
+
 I think I found a bug! Here are some things that are not bugs:
 - Blue swirling effect around some NPCs
 - Red effect around vampires/werewolves
