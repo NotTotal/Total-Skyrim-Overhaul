@@ -142,7 +142,7 @@ AZ Tweaks introduces another twist on the perk system via the treatise requireme
 
 IMPORTANT: Due to LOTD compatibility treatises had to be renamed. They still function as they would in AZ Tweaks just they are returned to their original titles as skill books for their respective magic schools. All you need to do is find a relevant skill book for that magic school and you can unlock the first perk of that school. The book does not need the word “treatise” in its title. Check this UESP page for titles.
 
-As standard in requiem each smithing tier will require the respective perk before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
+As standard in requiem each smithing tier will require the respective book before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
 
 ## Equipment Durability
 
