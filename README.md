@@ -86,9 +86,7 @@ Start the game and exit once you're in the main menu.
 #### Preparations
 
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
-
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in X:\Wabbajack
 
 #### Downloading and Installing
 
@@ -96,7 +94,7 @@ The download and installation process can take a very long time depending on you
 
 1. Open Wabbajack
 2. Load the Modlist from Disk
-3. Adjust the download and installation paths
+3. Set TSO to install to X:\Total Skyrim Overhaul and download to X:\Total Skyrim Overhaul\Downloads. Your downloads folder can be on a separate drive to save space but wabbajack's install speed will be limited to your slowest drive. 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 
