@@ -20,8 +20,6 @@
 - [Gameplay Guide](#gameplay-guide)
 - [In-Game MCM Options](#in-game-mcm-options)
 - [FAQ](#faq)
-- [Tweaking Performance](#tweaking-performance)
-  - [Tweaking the Game Settings](#tweaking-the-game-settings)
 - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
