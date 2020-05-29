@@ -319,6 +319,9 @@ NPC Setting
 Why is there a lantern always attached to my character?  Why am I always casting light?
 - This is provided by a mod called quick light.  Holding E will toggle a light on and off to help brighten darker areas
 
+My Character freezes in midair when I dodge
+- Press G twice.
+
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
 
@@ -398,7 +401,6 @@ Invisible Entity tier
 Dremora tier
 
 Churl Tier
-- Benjamin Jessat
 - LanHsah
 
 
