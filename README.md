@@ -116,6 +116,10 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
+#### Starting the Game
+
+Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+
 ## Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
