@@ -232,10 +232,11 @@ Joining
 
 Quest Tweaks
 - Radiant Quest Reward Gold
-- Use Default Gold Rewards: O
-- Gold per Guild Rank: 100
-- Gold per Player Level: 0
-- Gold per Quest Difficulty Level: 100
+ - Use Default Gold Rewards: O
+ - Gold per Guild Rank: 100
+ - Gold per Player Level: 0
+ - Gold per Quest Difficulty Level: 100
+
 Miscellaneous: Beast Blood
 - Aela Will Offer: Unlimited
 
