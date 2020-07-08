@@ -231,6 +231,7 @@ Joining
 - Thieves Guild Members Can Join: X
 
 Quest Tweaks
+
 - Radiant Quest Reward Gold
  - Use Default Gold Rewards: O
  - Gold per Guild Rank: 100
@@ -259,6 +260,7 @@ Settings
 ## Requiem (Wait until Requiem/AZT tells you they’re ready)
 Combat
 - No non-hostile Bull Rush/Trample: X
+
 Atmosphere
 - Dragon random spawn interval: 6 days
 - Heartbeat threshold: 5%
