@@ -365,7 +365,7 @@ I think I found a bug! Here are some things that are not bugs:
 - The game yells that I fucked up when I die
 - Unable to drop or deposit gold
 
-## Tweaking Performance
+## Performance
 
 My Setup:
 
@@ -373,6 +373,8 @@ My Setup:
 - AMD 5700
 - 32GB DDR4
 - Game and MO2 running on a m2 drive
+
+I get a consistent 55-60 fps in game. If you get bad frames I suggset swapping the enb to a lighter enb like The Truth or a performance preset of a fireamanaf enb for Obsidian. You may also want to adjust the ini settings to be lower via bethini. 
 
 ## Removing the Modlist
 
