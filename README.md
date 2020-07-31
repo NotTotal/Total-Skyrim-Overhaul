@@ -140,7 +140,7 @@ Requiem 1.9.4.1 is an extremely perk focused mod. Every skill requires the initi
 
 AZ Tweaks introduces another twist on the perk system via the treatise requirement for magic and crafting skills. At the start of the game you will get a prompt informing you of this system. The first magic or crafting perk will not require a treatise or book, but every subsequent initial perk will. If you do not choose any magic perks you will receive a scaling health bonus up to 100 hp. If you do not choose any crafting perks you will receive a 20% barter bonus.
 
-IMPORTANT: Due to LOTD compatibility treatises had to be renamed. They still function as they would in AZ Tweaks just they are returned to their original titles as skill books for their respective magic schools. All you need to do is find a relevant skill book for that magic school and you can unlock the first perk of that school. The book does not need the word “treatise” in its title. Check this UESP page for titles.
+IMPORTANT: Due to LOTD compatibility treatises had to be renamed. They still function as they would in AZ Tweaks just they are returned to their original titles as skill books for their respective magic schools. All you need to do is find a relevant skill book for that magic school and you can unlock the first perk of that school. The book does not need the word “treatise” in its title. [Check this UESP page for titles.](https://en.uesp.net/wiki/Skyrim:Skill_Books)
 
 As standard in requiem each smithing tier will require the respective book before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
 
