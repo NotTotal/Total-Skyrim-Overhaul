@@ -38,6 +38,8 @@ NSFW Warning: This list contains nude models for female and males. To mostly rem
 
 ### Pre-Installation
 
+Before you start downloading grab High Poly Head v1.2 from [Vector Plexus](https://vectorplexus.com/files/file/283-high-poly-head/) and place it in your TSO/Downloads folder. If you have not made the TSO directory yet, place it there when you do.
+
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
