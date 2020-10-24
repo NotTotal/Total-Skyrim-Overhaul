@@ -38,8 +38,6 @@ NSFW Warning: This list contains nude models for female and males. To mostly rem
 
 ### Pre-Installation
 
-Before you start downloading grab High Poly Head v1.2 from [Vector Plexus](https://vectorplexus.com/files/file/283-high-poly-head/) and place it in your TSO/Downloads folder. If you have not made the TSO directory yet, place it there when you do.
-
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
@@ -136,63 +134,12 @@ Updating is like installing. You only have to make sure that you select the same
 
 GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE [TSO DEV SERVER](https://discord.gg/ueJH6Jz)
 
-## Perks
-
-Requiem 1.9.4.1 is an extremely perk focused mod. Every skill requires the initial perk to be usable. For example, you will not be able to pick any locks without the first perk in lockpicking, if you don’t have any perks in one handed you will struggle to even swing a sword, and you will not be able to make any potions without a single perk in alchemy. Requiem grants you three perk points at level one. Choose wisely.
-
-AZ Tweaks introduces another twist on the perk system via the treatise requirement for magic and crafting skills. At the start of the game you will get a prompt informing you of this system. The first magic or crafting perk will not require a treatise or book, but every subsequent initial perk will. If you do not choose any magic perks you will receive a scaling health bonus up to 100 hp. If you do not choose any crafting perks you will receive a 20% barter bonus.
-
-IMPORTANT: Due to LOTD compatibility treatises had to be renamed. They still function as they would in AZ Tweaks just they are returned to their original titles as skill books for their respective magic schools. All you need to do is find a relevant skill book for that magic school and you can unlock the first perk of that school. The book does not need the word “treatise” in its title. [Check this UESP page for titles.](https://en.uesp.net/wiki/Skyrim:Skill_Books)
-
-As standard in requiem each smithing tier will require the respective book before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
-
-## Equipment Durability
-
-TSO features Equipment Durability System. Untempered unenchanted items will have a chance of breaking once their durability reaches 0. It might not occur immediately but it will happen quickly. Do not enter battle with nearly broken gear if you want to leave it with those items. EDS deletes the items when they are broken beyond repair. Enchanted and unique items are exempt from being breakable. 
-
-There are three primary ways of obtaining tempered items. First, from tempering the item yourself via the smithing skill tree. Second, from paying a smith to do it for you through their dialogue added by honed metal. Third, some enemies may have tempered items. 
-
-Requiem has an additional setting that causes wooden bows to break when melee’d. This is entirely separate from the equipment durability system and does not care if you have tempered the bow or not. If you want to be an archer the best plan is to not get hit or to quickly find a good bow.
-
-## Spell Research
-
-TSO uses Spell Research as the primary method of acquiring new spells. Custom patches adjusting the economy and import of spell research spells have been made. The system is time consuming and very important if you wish to have higher level spells as a mage. I suggest you read the spell research mod page in detail on how it works. 
-
-As of TSO v2.4 the only way to access spells from Forgotten Magic Redone is via spell research. These spells are stronger than similar spells of the same tier and cost so it will be well worth your while to fish in spell research for the spells that you want.
-
-## Food and Rest
-
-TSO does not use any survival mods, but you will still need to eat and sleep. AZ Tweaks food comes in sizes and three categories. Main courses provide significant buffs that last for a long time, these typically are not active in combat. Snacks provide shorter term buffs that may be stronger than those found in main courses and some are active in combat. You may have one main course and one snack active at a time. If you find you’re having difficulty sustaining stamina or magicka, you probably need to eat a main course with relevant buffs.
-
-AZ Tweaks introduces a rested experience bonus. If you want your skills to level at a reasonable rate you should remember to sleep regularly.
-
-## Combat Mods
-
-TSO uses The Ultimate Dodge Mod, Wildcat, Speed and Reach fixes, and Ultimate Combat to provide a completely revamped experience. Many features have been adjusted or turned off for requiem compatibility. However expect enemies to duck, weave, and generally be extremely aggressive when they would have not otherwise done so. In return your proper play will be rewarded by you not dying.
-
-Most hits will cause some form of stagger, try not to get hit.
-
-NPCs from the races of tamriel have a passive fortify health buff. Due to issues with UI display this will make it appear like your first hit does little or no damage. You are doing damage, just not enough.
+This section will be expanded as v3 gets closer to the end of alpha
 
 ## Religion
 
 TSO uses SNBCJ’s excellent Immersive Divine Blessings as a core religious system as a replacement for AZ Tweak’s religious system. Daedra worship is managed by AZ Tweaks Daedric Worship. Reading both mod pages is a good idea in planning out the available buffs to your character. Consider your actions carefully as the gods shall judge you.
 
-## Vampirism
-
-Vampiric Thirst by MsLeeches is the vampire mod used in TSO. It has significantly different mechanics than sacrosanct or better vampires. Early vampire gameplay will be a constant struggle to remain alive. Once you have stabilized you will slowly become the terror in the night.
-
-Remember due to immersive divine blessings you cannot use or carry any silver items. Similarly, Meridia takes an immersive view on those that must be purged. Be wary of her artifacts.
-
-## Realm of Lorkhan
-
-I have created a heavily modified version of the Realm of Lorkhan specifically for TSO. Scattered through containers in the realm you will find viable starting equipment and the doors provide some choices of safe starting locations. Many aspects of RoL have been intentionally removed as they were unbalanced. 
-
-LAL will not be added as it does not allow players to pick their starting gear and has some other issues. Skyrim Unbound skips Bleak Falls Barrow, an important filter for requiem. Do not ask me about adding either of these mods I will only reply with a screenshot of this paragraph. 
-
-## Starting Tips
-
-My advice for starting out: grab as much as you can from RoL you’ll need it. Make sure everything you own is tempered before getting into combat unless you want to end the fight naked. Have a companion, they’re worth the expense. Remember to keep a main course buff up. Riften and whiterun are good starting areas as they have a lot of bandits. Don’t be afraid to run from a fight that you can’t win, or at least run to somewhere easier to recover your belongings from when you die. And most important of all, gitgud.
 
 
 ## In-Game MCM Options
@@ -202,125 +149,9 @@ Notes indicate settings to change, if not specified leave as default.
 - O = Disable
 **Immediately after creating your character open your inventory and close it.**
 
-## All Geared Up Deriv.
-Misc. - Player
+## Requiem
+To disable the annoying warning message on load in go to Compability & Debug and tick Disable Non-critical Warnings
 
-- Enable Misc Item Display: O
-
-NPC
-- Enable Coin Purse: O
-- Enable Ingredient Satchel: O
-- Potions: O
-- Scroll: O
-- Torch: O
-
-## Death is Highly Overrated: Redone
-- Skill Loss Notifications: X
-
-Cure Disease Options
-
-- Amulet of Arkay Respawn: X
-- Health Potion Respawn: X
-- Unassisted Respawn: X
-
-Respawn Options
-- Revive Seconds: 3
-- Skills to Decrease: 6
-
-## ESF Companions
-Hit apply preset 
-Joining
-- Thieves Guild Members Can Join: X
-
-Quest Tweaks
-
-- Radiant Quest Reward Gold
- - Use Default Gold Rewards: O
- - Gold per Guild Rank: 100
- - Gold per Player Level: 0
- - Gold per Quest Difficulty Level: 100
-
-Miscellaneous: Beast Blood
-- Aela Will Offer: Unlimited
-
-## Extended UI
-Hide Legendary UI elements: X
-
-## Follower Framework
-System
-- Load configuration file
-Set hotkeys at your discretion
-
-## Forgotten Magic Redone
-Settings
-- Spell Book Drop Chance: 0%
-- Jewelery Drop Chance: 1%
-
-## Quick Light
-- Brightness: Bright
-
-## Requiem (Wait until Requiem/AZT tells you they’re ready)
-Combat
-- No non-hostile Bull Rush/Trample: X
-
-Atmosphere
-- Dragon random spawn interval: 6 days
-- Heartbeat threshold: 5%
-- Cleared cell respawn time: 90 days
-
-## Skyrim Unique Treasures
-- Lore friendly unique items only: X
-
-## Spell Research
-Navigate to options and click import spells
-Close MCM and select yes on every prompt
-
-Options -> Experience
-- Set all to 0
-
-## The Ultimate Dodge Mod
-**Rebind sneak key as you want or leave it alone**
-
-NPC Settings: NPC dodging frequency
-- Not frequent
-
-## Thieves Guild Req.
-- Select load preset
-
-## Ultimate Combat
-
-General
-Timed Block
-- Effective Time: 0s
-- Blur Strength: 0
-
-Game Balance Settings
-- Speed bonus: O
-
-Others
-- Swing Effect: O
-
-Stagger
-- Enemy Poise: O
-- Player Stagger: O
-
-Locational Damage
-- Headshot Message: O
-- Locational Damage Sound: O
-- Locational Damage Effect: O
-
-NPC Setting
-- Giant HP Multi: 1
-- Dragon Priest HP Multi: 1
-- Centurion HP Multi: 1
-
-**Disable NPC Dodge**
-
-## VT & Requiem
-- Options -> Click disabled to enable the mod
-
-## Wildcat
-- Disable Penalties vs Massive Targets: X
 
 
 ## FAQ
@@ -328,8 +159,6 @@ NPC Setting
 Why is there a lantern always attached to my character?  Why am I always casting light?
 - This is provided by a mod called quick light.  Holding E will toggle a light on and off to help brighten darker areas
 
-My Character freezes in midair when I dodge
-- Press G twice.
 
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
