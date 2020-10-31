@@ -9,6 +9,7 @@ Added
 - KD Realistic Fireplaces
 - Charred Logs for KD - Realistic Fireplaces
 - Inferno - Fire effects Redux
+- Wives of Skyrim - High Poly Npc Replacer
 
 Changed
 - ENB water color to tropical green
