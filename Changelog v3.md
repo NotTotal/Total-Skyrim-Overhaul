@@ -2,7 +2,6 @@ Alpha 2
 
 Added
 - Growl
-- Scion
 - Mortal Enemies
 - Blocksteal
 - Demoniac
