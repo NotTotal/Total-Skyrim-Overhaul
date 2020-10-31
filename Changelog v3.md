@@ -1,3 +1,5 @@
+Alpha 2
+
 Added
 - Growl
 - Scion
