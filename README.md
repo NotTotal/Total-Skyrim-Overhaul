@@ -132,6 +132,9 @@ All MCM options have been preconfigured
 
 ## FAQ
 
+I'm playing on a resolution above 1080p and my game resolution is messed up when I start the game!
+- First, open up MO2, open up MO2's ini editor, and make sure the resolution in the skyrimprefs ini **in mo2** is set to the correct resolution. If this does not solve your problem open up SSE Display Tweaks in mo2, open up its ini and edit it to fit your resolution or just turn it to fullscreen. Finally if you still have a problem check windows scaling settings for skyrim.
+
 Why is there a lantern always attached to my character?  Why am I always casting light?
 - This is provided by a mod called quick light.  Holding E will toggle a light on and off to help brighten darker areas
 
