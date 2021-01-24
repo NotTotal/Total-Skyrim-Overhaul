@@ -141,6 +141,9 @@ Why is there a lantern always attached to my character?  Why am I always casting
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
 
+My character tposing/has animation issues when moving
+- Cap your fps at or below 75.
+
 My character's hair/eyebrows/beard has weird texture issues
 - You need to use High Poly Head and non-vanilla hair/eyebrows/beard (HPH has duplicates made for HPH)
 
