@@ -150,6 +150,9 @@ My character's hair/eyebrows/beard has weird texture issues
 How do I use High Poly Head?
 - In racemenu search for “face part” and move the slider. HPH will work on any pre existing presets that you have, but you will need to use HPH's eyebrows.
 
+Loverslab downloads keep failing!
+- First make sure you verified your LL account and then restart WJ. If that doesn't work log in and out of LL in the WJ UI. If that doesn't work, grab the failing links from the WJ log, download the files manually, and put them in your downloads folder.
+
 How do I set skyrim to borderless windowed mode?
 - Change the settings in the SSE Display Tweaks INI in MO2
 
@@ -174,6 +177,8 @@ I think I found a bug! Here are some things that are not bugs:
 - Any other persistent effect on your character
 - Armors that are invisible on male characters
 - Unable to allocate the first crafting skill point
+- Inigo won't speak to me
+- I can't recruit modded followers
 
 ## Performance
 
