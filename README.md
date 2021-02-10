@@ -189,7 +189,7 @@ My Setup:
 - 32GB DDR4
 - Game and MO2 running on a m2 drive
 
-I get a consistent 55-60 fps in game. If you get bad frames I suggset swapping the enb to a lighter enb like The Truth or a performance preset of a fireamanaf enb for Obsidian. You may also want to adjust the ini settings to be lower via bethini. 
+I get a consistent 55-60 fps in game. If you get bad frames I suggset not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
 
 ## Removing the Modlist
 
