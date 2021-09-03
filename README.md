@@ -25,6 +25,19 @@
 # Introduction
 Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing Keizaal, The Phoenix Flavor, or Living Skyrim instead. If you have never played requiem before I strongly reccomend you start with Serenity first.
 
+MEGA LINKS - Due to a change in how MEGA deals with files you need to download these files OUTSIDE of Wabbajack and manually put them in your TSO downloads folder. No, there is no way around this and you cannot skip these files.
+- https://mega.nz/file/F6ZhBaJT#XKdDnI5TqaNaMfYwM9K1_A29nP4iIN7UfjvKOxrWyj8
+- https://mega.nz/file/xzwQwQZa#lCD2KiMQuD7DAh7vToEjMv-7plMCNhluDHv7v-gXVhQ
+- https://mega.nz/file/87JHyKSZ#1EWVru3vSWZsknJDUVuFzwreC0Uw7pNffgT5kU5ZSOc
+- https://mega.nz/file/QmB0kQLZ#DGzlAlvVFuS5SgwMY1SIZk84TAxUDmq-lL6eOQG2nQU
+- https://mega.nz/file/knQQhQZB#2CeI8ZpOeFCkJpf8Op6-hlzrdKd_eI_AmZtTOkeWRsc
+- https://mega.nz/file/srR0yIbZ#rsTaW12GjDuG8QW1HuPYlui4ja-gVmNC1WEmTP8iRgQ
+- https://mega.nz/file/g7IwQYaI#uASe7NJ04jHQ1WYVOmET4TbG5iM8c-xz_c8GtISZz_c
+- https://mega.nz/file/xnYWwQxQ#zl7tNj9O1opkvDvOpSGGlDfz4wmjtW6A-VvQnFNpgRc
+- https://mega.nz/file/EqZ2EQpb#dDi75Ix3W5zS_Ee7yOartTRi4_9zpfmrTYVwQKy5Mqg
+- https://mega.nz/file/uH4E2JYD#sbGEhsJkXjWQol5ZmmYnCDuLtGAhjh73UZGVZsgMcFs
+- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM
+
 I will not provide support on how to add or change any mods beyond what is already provided. Do not ask me for help if you changed things. If you do not have experience modding requiem on SSE and patching with xedit I suggest you do not even think of changing anything.
 
 If a question is sufficiently answered in this readme I will not respond to support requests relating to it. Please read the readme, I wrote it for a reason. If your question is not in the readme I will answer it to the degree possible.
@@ -113,6 +126,10 @@ TSO now features 3tweaks, a comprehensive overhaul of requiem designed to elimin
 Requiem is an extremely perk focused mod. Every skill requires the initial perk to be usable. For example, you will not be able to pick any locks without the first perk in lockpicking, if you don’t have any perks in one handed you will struggle to even swing a sword, and . Requiem grants you three perk points at level one. Choose wisely.
 
 As standard in requiem each smithing tier will require the respective book before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
+
+## Saving
+ 
+TSO features sleep to save. There are only two ways to save, either when you sleep at a bed, or once every 15 minutes with the item in your inventory called "Elder Scroll (Break)." No, there is no way to turn this off. 
 
 ## Equipment Durability
 
