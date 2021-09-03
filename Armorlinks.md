@@ -1,12 +1,21 @@
 https://drive.google.com/file/d/1OzRnQMQd6v-jCdpBCwLtvU1PgP9UHPJx/ - Godfall phoenix
+
 https://drive.google.com/file/d/1THN3jBMBTHydVWV_DeADu3AQCZEvYAKT/ - confessor
+
 https://drive.google.com/file/d/15rXBnyE41ZHFztQ122G6XRlgPhtw8KZN/ - dragons crown
+
 https://drive.google.com/file/d/1aLukpnhO7YNorYl11VTy8-6HEEeFPP35/ - Grotevant
+
 https://drive.google.com/file/d/1w8FYON11jWnOY0J8yqaMxKUtEYuI6TdA/ - Rosa Le Dessous
+
 https://drive.google.com/file/d/1JoSeVzSBIa4YrbPNtrE6HNFLE4FoQ_wU/ - Taze
+
 https://drive.google.com/file/d/1TkeHDdN48ybtTeRH5zpE9_cjKCGAgiHq/ - DK 0172
+
 https://drive.google.com/file/d/1kmPUlvffBmdN2d3qTbmXJqfXaE0ChiuR/ - Lilikh
+
 https://drive.google.com/file/d/1R0ft2Z5VR1b80Su7F9koh4RFmnoTc_83/ - Ram Horn Witch
+
 https://www.mediafire.com/file/4vv388x5hw3tf6y/Purple_Esmeralda_%255BSE%255D_-_CBBE_-_BHUNP.7z/file - Purple Esmeralda
 https://drive.google.com/file/d/1wTR2XVRcC5Rl1YVyqUqd4_sRFuLXMmui/ - DK Floree
 https://drive.google.com/file/d/1YB6V09RCGMiHLy1zN045KBA7AA4tj6UK/ - Guardian Grunil
