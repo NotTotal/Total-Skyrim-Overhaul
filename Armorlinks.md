@@ -46,7 +46,7 @@ https://www.mediafire.com/file/93l7kl2raszrtra/BDO_Valkyrie_SE_1-0-0.7z/file - V
 
 https://www.mediafire.com/file/nnutteyc53dfxnu/[Christine]+Ninian.7z/file - Ninian
 
-https://www.mediafire.com/file/21ae811fmlt26qv/%255BChristine%255D_Hunterborn.7z/file - Hunterborn
+https://www.mediafire.com/file/cn9jxly2unniocr/[Christine]+Hunterborn.7z/ - Hunterborn
 
 http://www.mediafire.com/file/73ho5bkcn23xsnn/%255BChristine%255D_Dragon_Breaker.7z/file - Dragon breaker
 
