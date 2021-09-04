@@ -94,7 +94,7 @@ https://www.mediafire.com/file/8xv30ezbg2g5gtp/Woodland_Priestess_SE.7z/file - W
 
 https://www.mediafire.com/file/sbol56ylzaakiz9/YYB_Kang_Xi_SE-SMP.7z/file - Kang Xi
 
-https://drive.google.com/file/d/1v1dc8jZnT4Xq6bB9Tt6XGaM8VnOFOpw8/- Deathrone
+https://drive.google.com/file/d/1v1dc8jZnT4Xq6bB9Tt6XGaM8VnOFOpw8/ Deathrone
 
 https://drive.google.com/file/d/1pRRSPyfHG71V3RyL3K1Z7cCuXnnHVfi8/view?usp=sharing - Galahad
 
