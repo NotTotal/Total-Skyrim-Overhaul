@@ -25,22 +25,11 @@
 # Introduction
 Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing Keizaal, The Phoenix Flavor, or Living Skyrim instead. If you have never played requiem before I strongly reccomend you start with Serenity first.
 
-MEGA LINKS - Due to a change in how MEGA deals with files you need to download these files OUTSIDE of Wabbajack and manually put them in your TSO downloads folder. No, there is no way around this and you cannot skip these files.
-- https://mega.nz/file/F6ZhBaJT#XKdDnI5TqaNaMfYwM9K1_A29nP4iIN7UfjvKOxrWyj8
-- https://mega.nz/file/xzwQwQZa#lCD2KiMQuD7DAh7vToEjMv-7plMCNhluDHv7v-gXVhQ
-- https://mega.nz/file/87JHyKSZ#1EWVru3vSWZsknJDUVuFzwreC0Uw7pNffgT5kU5ZSOc
-- https://mega.nz/file/QmB0kQLZ#DGzlAlvVFuS5SgwMY1SIZk84TAxUDmq-lL6eOQG2nQU
-- https://mega.nz/file/knQQhQZB#2CeI8ZpOeFCkJpf8Op6-hlzrdKd_eI_AmZtTOkeWRsc
-- https://mega.nz/file/srR0yIbZ#rsTaW12GjDuG8QW1HuPYlui4ja-gVmNC1WEmTP8iRgQ
-- https://mega.nz/file/g7IwQYaI#uASe7NJ04jHQ1WYVOmET4TbG5iM8c-xz_c8GtISZz_c
-- https://mega.nz/file/xnYWwQxQ#zl7tNj9O1opkvDvOpSGGlDfz4wmjtW6A-VvQnFNpgRc
-- https://mega.nz/file/EqZ2EQpb#dDi75Ix3W5zS_Ee7yOartTRi4_9zpfmrTYVwQKy5Mqg
-- https://mega.nz/file/uH4E2JYD#sbGEhsJkXjWQol5ZmmYnCDuLtGAhjh73UZGVZsgMcFs
-- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM
-
 I will not provide support on how to add or change any mods beyond what is already provided. Do not ask me for help if you changed things. If you do not have experience modding requiem on SSE and patching with xedit I suggest you do not even think of changing anything.
 
 If a question is sufficiently answered in this readme I will not respond to support requests relating to it. Please read the readme, I wrote it for a reason. If your question is not in the readme I will answer it to the degree possible.
+
+Support is only available in the [Requiem Wabbajack Discord](https://discord.gg/WCbdB9TYbj)
 
 NSFW Warning: This list contains nude models for female and males.
 ## Installation
@@ -105,12 +94,6 @@ Head over to the installation folder and locate an executable named ModOrganizer
 
 ## Updating
 
-If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 # Gameplay Guide
@@ -135,10 +118,6 @@ TSO features sleep to save. There are only two ways to save, either when you sle
 
 TSO features Equipment Durability. Items will degrade over time as you use them. This will be displayed with the name of the item being modified to show its degredation status. Items can be repaired by tempering
 
-## Religion
-
-TSO uses SNBCJ’s excellent Immersive Divine Blessings as a core religious system as a replacement for 3Tweak’s religious system. Reading the IDB mod page is a good idea in planning out the available buffs to your character. Consider your actions carefully as the gods shall judge you.
-
 ## Character Customization
 
 TSO has two MCMs related to character customization that are easy to miss. Racemenu animated overlays will allow you to determine when overlays appear during combat. Skyrim outfit system allows you to set visual only outfits for various situations and locations. It's effectively transmog in skyrim, finally.
@@ -148,6 +127,10 @@ TSO has two MCMs related to character customization that are easy to miss. Racem
 All MCM options have been preconfigured
 
 ## FAQ
+
+SKSE instantly crashes when I try to start the game
+- Please ensure you have .NET v5.0 installed. Download and install both Console Apps x64 AND Desktop Apps x64 versions from Microsoft:
+https://dotnet.microsoft.com/download/dotnet/5.0/runtime
 
 I'm playing on a resolution above 1080p and my game resolution is messed up when I start the game!
 - First, open up MO2, open up MO2's ini editor, and make sure the resolution in the skyrimprefs ini **in mo2** is set to the correct resolution. If this does not solve your problem open up SSE Display Tweaks in mo2, open up its ini and edit it to fit your resolution or just turn it to fullscreen. Finally if you still have a problem check windows scaling settings for skyrim.
@@ -201,12 +184,12 @@ I think I found a bug! Here are some things that are not bugs:
 
 My Setup:
 
-- Ryzen 2600x
-- AMD 5700
+- Ryzen 5600x
+- RTX 3080 Ti
 - 32GB DDR4
 - Game and MO2 running on a m2 drive
 
-I get a consistent 55-60 fps in game. If you get bad frames I suggset not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
+I get a consistent 60+ fps in game at 1440p. If you get bad frames I suggset not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
 
 ## Removing the Modlist
 
@@ -235,19 +218,9 @@ Special Thanks
 Mod Authors
 - And of course, where would we be without Skyrim’s awesome mod authors? Thank you all for releasing the quality content that you guys do. PLEASE DO NOT FORGET TO ENDORSE THE AUTHORS!
 
-Invisible Entity tier
-- Moggi
-- Dispo
-            
-Dremora tier
-
-Churl Tier
-- LanHsah
-
-
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/NotTotal/Total-Skyrim-Overhaul/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+While I'm always available on the [Requiem Wabbajack Discord](https://discord.gg/WCbdB9TYbj), I would advise checking the [Issues](https://github.com/NotTotal/Total-Skyrim-Overhaul/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Contributing
 
