@@ -198,7 +198,7 @@ My Setup:
 - 64GB DDR5
 - Game and MO2 running on a m2 drive
 
-I get a consistent 120+ fps in game at 1440p. If you get bad frames I suggest not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
+I get a consistent 120+ fps in game at 1440p. If you get bad frames I suggest not wearing any SMP items or figuring out how to use a lower NAT enb preset. I don't provide support for making your fps better so please do not ask me.
 
 ## Removing the Modlist
 
