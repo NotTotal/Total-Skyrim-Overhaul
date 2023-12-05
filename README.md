@@ -23,7 +23,7 @@
 - [Changelog](#changelog)
 
 # Introduction
-Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing Keizaal, The Phoenix Flavor, or Living Skyrim instead. If you have never played requiem before I strongly reccomend you start with Serenity first.
+Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing Keizaal, The Phoenix Flavor, or Living Skyrim instead. If you have never played requiem before I strongly reccomend you start with Do Not Go Gentle first.
 
 I will not provide support on how to add or change any mods beyond what is already provided. Do not ask me for help if you changed things. If you do not have experience modding requiem on SSE and patching with xedit I suggest you do not even think of changing anything.
 
@@ -100,19 +100,23 @@ Updating is like installing. You only have to make sure that you select the same
 
 GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE [TSO DEV SERVER](https://discord.gg/ueJH6Jz)
 
-## 3Tweaks
+## 3bfTweaks
 
-TSO now features 3tweaks, a comprehensive overhaul of requiem designed to eliminate many of the meta gaming strategies people have developed over time and force you to actually play the game to progress. **The only way to gain skill levels is by potions of insight which you earn from end chests of locations or by fighting powerful enemies**. Additionally, the economy has been drastically rebalanced so you can no longer abuse alchemy or sell junk gear to vendors to become rich. 3Tweaks has many other significant changes to the ways that requiem works, which you will have to find out by playing.
+TSO now features 3bftweaks, a comprehensive overhaul of requiem designed to eliminate many of the meta gaming strategies people have developed over time and force you to actually play the game to progress. **The only way to gain skill levels is by potions of insight which you earn from end chests of locations or by fighting powerful enemies**. Additionally, the economy has been drastically rebalanced so you can no longer abuse alchemy or sell junk gear to vendors to become rich. 3bfTweaks has many other significant changes to the ways that requiem works, which you will have to find out by playing.
 
 ## Perks
 
-Requiem is an extremely perk focused mod. Every skill requires the initial perk to be usable. For example, you will not be able to pick any locks without the first perk in lockpicking, if you don’t have any perks in one handed you will struggle to even swing a sword, and . Requiem grants you three perk points at level one. Choose wisely.
+Requiem is an extremely perk focused mod. Every skill requires the initial perk to be usable. For example, you will not be able to pick any locks without the first perk in lockpicking, if you don’t have any perks in one handed you will struggle to even swing a sword. Requiem grants you three perk points at level one. Choose wisely.
 
 As standard in requiem each smithing tier will require the respective book before you can spend a perk point. These books are scattered throughout the world in places where they logically belong. You will have to earn them.
 
 ## Saving
  
 TSO features sleep to save. There are only two ways to save, either when you sleep at a bed, or once every 15 minutes with the item in your inventory called "Elder Scroll (Break)." No, there is no way to turn this off. 
+
+## Religion
+
+You can worship a god to gain extra power. You'll have to figure out how to do this.
 
 ## Equipment Durability
 
@@ -121,6 +125,8 @@ TSO features Equipment Durability. Items will degrade over time as you use them.
 ## Character Customization
 
 TSO has two MCMs related to character customization that are easy to miss. Racemenu animated overlays will allow you to determine when overlays appear during combat. Skyrim outfit system allows you to set visual only outfits for various situations and locations. It's effectively transmog in skyrim, finally.
+
+If you spent a long time making your character I highly suggest either finding a way to save quickly or making it a preset. Death is likely early on.
 
 ## In-Game MCM Options
 
@@ -141,8 +147,11 @@ Why is there a lantern always attached to my character?  Why am I always casting
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
 
-My character tposing/has animation issues when moving
-- Cap your fps at or below 75.
+NPCs keep dropping Lusty Argonian Maid books
+- Each maid that drops is an insight potion that could have dropped, but dropped as a maid instead.
+
+How does this compare to other 3BFTweaks lists?
+- TSO is slower, the enemies are more numerous and harder, and some other changes to make the game harder.
 
 My character's hair/eyebrows/beard has weird texture issues
 - You need to use High Poly Head and non-vanilla hair/eyebrows/beard (HPH has duplicates made for HPH)
@@ -184,12 +193,12 @@ I think I found a bug! Here are some things that are not bugs:
 
 My Setup:
 
-- Ryzen 5600x
-- RTX 3080 Ti
-- 32GB DDR4
+- Intel i13900k
+- RTX 4090
+- 64GB DDR5
 - Game and MO2 running on a m2 drive
 
-I get a consistent 60+ fps in game at 1440p. If you get bad frames I suggset not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
+I get a consistent 120+ fps in game at 1440p. If you get bad frames I suggest not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
 
 ## Removing the Modlist
 
