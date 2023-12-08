@@ -267,8 +267,6 @@ https://www.mediafire.com/file/vlyb03viw5h66k1/(Royan)+Ryza.7z/file - Ryza
 
 https://www.mediafire.com/file/vav8pnnh2jpkbgk/Gatti_Misogi_Armor.7z/file - Gatti Misogi
 
-https://www.mediafire.com/file/vme3216ry9ml63s/Gatti_Jewel.7z/file - Gatti Jewel
-
 http://www.mediafire.com/file/jhjb2pajwwi0out/%255BChristine%255D_Exnem_Witch.7z/file - Exnem Witch
 
 http://www.mediafire.com/file/fgoyj3pxkh9r9ui/%255BChristine%255D_Companion_Moon.7z/file - Companion Moon
@@ -277,5 +275,14 @@ http://www.mediafire.com/file/ova7hrh4etntg7b/%255BChristine%255D_Eldergleam_Que
 
 http://www.mediafire.com/file/7x52vaws8aizs7x/%255BChristine%255D_Exnem_Demonic.7z/file - Exnem Demonic
 
-http://www.mediafire.com/file/y9nkxcyro826w5y/Ves.7z/file - Ves
+https://drive.google.com/file/d/1G5yiU0xbXh_y9XsPDQ6z5Gg6razeb-Nk/edit - BDOR Corbicanus
 
+https://drive.google.com/file/d/1QrHV_lH3ESUSiN-4bYwrMivMr5YlQK-A/edit - BDOR Marnist
+
+https://drive.google.com/file/d/1r8kngKdDHKb9nIJQpWywhciBn4-Sirgy/edit - BDOR Darkborne Rose
+
+https://drive.google.com/file/d/1u9Fvkc5xgY4vr3oiPZGkC_cX2CuwX2FV/edit - BDOR Makalu
+
+https://drive.google.com/file/d/1G-r_seDgTy5k-WzxpzzYk3OON9KFMQYd/edit - BDOR Trailblazer
+
+https://drive.google.com/file/d/1vfCLSqq2s14BtR0-Xbu5ysSGthwo-dAN - DS3 Silver Knight
