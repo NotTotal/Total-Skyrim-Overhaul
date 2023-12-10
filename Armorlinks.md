@@ -128,8 +128,6 @@ https://www.mediafire.com/file/b7le7dra0f1y1x7/DOA_-_Night_Parade_of_One_Hundred
 
 https://www.mediafire.com/file/vgqlg03k7uwk7ig/Nadina_Linda_SE_-_ESL.7z/file - Nadina Linda
 
-https://www.mediafire.com/file/kyvjrap0vpjos67/Atanis.7z/file - Atanis
-
 https://www.mediafire.com/file/134vdiza6u9mnm2/First_Summoner_Witch.7z/file - First Summoner
 
 https://www.mediafire.com/file/sfovn5hzm8eixu2/Bless_MS_0102.7z/file - Bless MS 0102
