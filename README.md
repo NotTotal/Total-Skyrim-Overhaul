@@ -98,7 +98,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Gameplay Guide
 
-GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE [TSO DEV SERVER](https://discord.gg/ueJH6Jz)
+GAMEPLAY QUESTIONS WILL NOT BE ANSWERED IN #TSO-SUPPORT, GO TO #GAMEPLAY-SPOILERS ON THE [Requiem Wabbajack Server](https://discord.gg/JycmyqzZz7)
 
 ## 3bfTweaks
 
@@ -146,6 +146,9 @@ Why is there a lantern always attached to my character?  Why am I always casting
 
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
+
+A bunch of armor files failed to download
+- Links are here: https://github.com/NotTotal/Total-Skyrim-Overhaul/blob/master/Armorlinks.md
 
 NPCs keep dropping Lusty Argonian Maid books
 - Each maid that drops is an insight potion that could have dropped, but dropped as a maid instead.
